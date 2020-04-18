@@ -25,3 +25,18 @@ Heart disease is a leading cause of death in Canada. Certain heart beat anomalie
 * The audio files had to be converted to mfcc format so that they could be used in our model
 
 
+## [Yelp Review Sentiment Analysis](https://github.com/numalj/YelpReviewAnalysis)
+
+This project scrapes the Yelp website to extract customer reviews of restaurants and builds a data set. The data set was used to train a Naive Bayes classifier that uses Sentiment Analysis to predict whether a review is positive (more than 3 stars) or negative (less than 3 stars). 
+
+
+**Potential use cases:**
+
+    1. The ratio of positive to/negative reviews can also be monitored enabling quality control of the restaurant.
+    2. This sort of model can be used to clasify future reviews so that when the number of reviews is very high, 
+       common themes in the negative reviews can be extracted and addressed much faster. 
+    3. Reviews can be further broken down into categories such as location and cusine.
+       This can provide insight into locations that might have low barriers to entry because none the 
+       existing restaurants are satisfying the majority of customers
+    4. Finding insights about what about restaurants people like and dislike
+
