@@ -6,6 +6,8 @@ Some of the project titles can be clicked on to visit the repo and relevant Jupy
 
 ## [John Mayer Lyrics Analysis using NLP](https://github.com/numalj/John-Mayer-Lyrics-Analysis "John Mayer Lyrics Analysis Notebook") 
 
+This is a project that I came up with. Being a big fan of anything guitar related and John Mayer's music, I thought it would be interesting to analyze the lyrics of his songs/albums instead of getting distracted by those tasty guitar solos. See the gihub repo README file for a summary of the results.
+
 * A [series of notebooks](https://github.com/numalj/John-Mayer-Lyrics-Analysis "John Mayer Lyrics Analysis Notebook") that analyze the lyrics used by John Mayer across his albums. 
 * Analysis includes **sentiment analysis, topic modeling and analysis of vocabulary**.
 
@@ -25,6 +27,20 @@ Heart disease is a leading cause of death in Canada. Certain heart beat anomalie
 * The audio files had to be converted to mfcc format so that they could be used in our model
 
 
+## [Ebay Competitive Auction Classifier - Decision Trees](https://github.com/numalj/BigDataAssignments/tree/master/ebayDecisionTrees)
+
+This project is an exercise in using Decision Trees with past ebay auction data to try and predict whether an auction would be competitive or not. Based on the decision tree splits, recommendations were provided with general guidelines to follow when setting up the auction to give the user a more competitive chance. See the [project page](https://github.com/numalj/BigDataAssignments/tree/master/ebayDecisionTrees) for diagrams and more details.
+
+
+## Hot Dog or Not?
+
+This project tries to classify whether an image is a hot dog or not a hot dog. It's based on an scene from the TV show 'Silicon Valley'. 
+
+* Trained a **CNN (Convolutional Neural Network)** to try and classify images
+* Since the hot dog data set was small, used **transfer learning** and experimented with pretrained models Inception and Mobilenet
+* Used tensorflow to help debug errors
+
+
 ## [Yelp Review Sentiment Analysis](https://github.com/numalj/YelpReviewAnalysis)
 
 This project scrapes the Yelp website to extract customer reviews of restaurants and builds a data set. The data set was used to train a Naive Bayes classifier that uses Sentiment Analysis to predict whether a review is positive (more than 3 stars) or negative (less than 3 stars). 
@@ -40,3 +56,10 @@ This project scrapes the Yelp website to extract customer reviews of restaurants
        existing restaurants are satisfying the majority of customers
     4. Finding insights about what about restaurants people like and dislike
 
+
+## [Computer Time Tracking App in Python](https://github.com/numalj/PythonTimeTracker)
+
+When we are sitting down at our computer, it is easy to lose track of time and suddenly you're wondering where all your time went. This is an ongoing personal project of mine. I thought it would be interesting to have an application track what apps and websites you spend your time on. This app collects data, which can then be analysed for more insight and to take action on.
+
+* Used Object Oriented Programming practices to build this Python App
+* Google Chrome activity is monitored on a per url basis, showing how much time was spent on each web domain
