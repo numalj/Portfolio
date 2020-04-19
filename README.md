@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio - Numal Jayawardena
 
 I'm a Data Scientist that used to work as a Software Engineer. I recently completed my Master of Management Analytics at Rotman (University of Toronto). Below are some of my personal Data Science projects as well as a few selected projects of the many that I completed as part of my master's program.
 
