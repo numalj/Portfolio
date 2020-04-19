@@ -15,6 +15,8 @@ This is a project that I came up with. Being a big fan of anything guitar relate
 * A [series of notebooks](https://github.com/numalj/John-Mayer-Lyrics-Analysis "John Mayer Lyrics Analysis Notebook") that analyze the lyrics used by John Mayer across his albums. 
 * Analysis includes **sentiment analysis, topic modeling and analysis of vocabulary**.
 
+See findings [here](https://github.com/numalj/John-Mayer-Lyrics-Analysis "John Mayer Lyrics Analysis Notebook")
+
 ## Time Series Forecasting model for Quarterly Stock Prices 
 
 * Worked with my team mates at Rotman, to build a time series model that that identifies potential best performing stocks of the next quarter
