@@ -8,11 +8,11 @@ I'm a Data Scientist that used to work as a Software Engineer. I recently comple
     
 
 
-## [John Mayer Lyrics Analysis using NLP](https://github.com/numalj/John-Mayer-Lyrics-Analysis "John Mayer Lyrics Analysis Notebook") 
+## [John Mayer Lyrics Analysis using Natural Language Processing (NLP)](https://github.com/numalj/John-Mayer-Lyrics-Analysis "John Mayer Lyrics Analysis Notebook") 
 
 This is a project that I came up with. Being a big fan of anything guitar related and John Mayer's music, I thought it would be interesting to analyze the lyrics of his songs/albums instead of getting distracted by those tasty guitar solos. See the gihub repo README file for a summary of the results.
 
-* A [series of notebooks](https://github.com/numalj/John-Mayer-Lyrics-Analysis "John Mayer Lyrics Analysis Notebook") that analyze the lyrics used by John Mayer across his albums. 
+* A [series of notebooks](https://github.com/numalj/John-Mayer-Lyrics-Analysis "John Mayer Lyrics Analysis Notebook") that use NLP techniques to analyze the lyrics used by John Mayer across his albums. 
 * Analysis includes **sentiment analysis, topic modeling and analysis of vocabulary**.
 
 See findings [here](https://github.com/numalj/John-Mayer-Lyrics-Analysis "John Mayer Lyrics Analysis Notebook")
