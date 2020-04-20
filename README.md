@@ -20,7 +20,7 @@ See findings [here](https://github.com/numalj/John-Mayer-Lyrics-Analysis "John M
 ## Time Series Forecasting model for Quarterly Stock Prices 
 
 * Worked with my team mates at Rotman, to build a time series model that that identifies potential best performing stocks of the next quarter
-* Scraped call transcripts for sentiment analysis (NLP) and used historical prices of stocks to train financial models from research papers.
+* Scraped call transcripts for sentiment analysis **(NLP)** and used historical prices of stocks to train financial models from research papers.
 * Models included Earnings Persistence and Residual Income Model
 
 
@@ -28,8 +28,8 @@ See findings [here](https://github.com/numalj/John-Mayer-Lyrics-Analysis "John M
 
 Heart disease is a leading cause of death in Canada. Certain heart beat anomalies can be identified by listening to the pattern of 'lub'-'dub's in the heart beat. Using machine learning the task of identifying an anomaly can be automated in order to help unaware patients identify any hidden conditions and can also be used as pre-screening mechanism to help reduce load on the healthcare system.
 
-* Preprocessed and Augmented audio files to create a larger training set, since there was a very limited set of available 
-* Built a RNN + LSTM model to classify heart beat sounds with 65% sensitivity
+* Preprocessed and **Augmented** audio files to create a larger training set, since there was a very limited set of available 
+* Built a **RNN + LSTM model** to classify heart beat sounds with 65% sensitivity
 * The audio files had to be converted to mfcc format so that they could be used in our model
 
 
@@ -67,5 +67,5 @@ This project scrapes the Yelp website to extract customer reviews of restaurants
 
 When we are sitting down at our computer, it is easy to lose track of time and suddenly you're wondering where all your time went. This is an ongoing personal project of mine. I thought it would be interesting to have an application track what apps and websites you spend your time on. This app collects data, which can then be analysed for more insight and to take action on.
 
-* Used Object Oriented Programming practices to build this Python App
+* Used **Object Oriented Programming** practices to build this Python App
 * Google Chrome activity is monitored on a per url basis, showing how much time was spent on each web domain
