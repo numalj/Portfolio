@@ -20,7 +20,8 @@ See findings [here](https://github.com/numalj/John-Mayer-Lyrics-Analysis "John M
 ## Time Series Forecasting model for Quarterly Stock Prices 
 
 * Worked with my team mates at Rotman, to build a time series model that that identifies potential best performing stocks of the next quarter
-* Scraped call transcripts for sentiment analysis **(NLP)** and used historical prices of stocks to train financial models from research papers.
+* Scraped earnings call transcripts for sentiment analysis **(NLP)** and used historical prices of stocks to train financial models based on research papers
+* Used a custom dictionary (Loughran and McDonald's) to get better polarity scores of financial vocablury used in earnings call transcripts 
 * Models included Earnings Persistence and Residual Income Model
 
 
