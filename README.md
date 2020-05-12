@@ -23,7 +23,7 @@ See findings [here](https://github.com/numalj/John-Mayer-Lyrics-Analysis "John M
 This project is an exercise in using Decision Trees with past ebay auction data to try and predict whether an auction would be competitive or not. Based on the decision tree splits, recommendations were provided with general guidelines to follow when setting up the auction to give the user a more competitive chance. See the [project page](https://github.com/numalj/BigDataAssignments/tree/master/ebayDecisionTrees) for diagrams and more details.
 
 
-## [New Starbucks Location Analysis](https://github.com/numalj/StarbucksLocationAnalysis)
+## [Where to open the next JavaBean](https://github.com/numalj/StarbucksLocationAnalysis)
 
 JavaBean is an up and coming coffee chain that is very similar to Starbucks. JavaBean is trying to decide which zip codes it should focus on to open up new shops in the near future. As a competitor of Starbucks, JavaBean has a very similar customer base.
 
