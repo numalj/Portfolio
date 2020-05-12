@@ -17,6 +17,12 @@ This is a project that I came up with. Being a big fan of anything guitar relate
 
 See findings [here](https://github.com/numalj/John-Mayer-Lyrics-Analysis "John Mayer Lyrics Analysis Notebook")
 
+
+## [Ebay Competitive Auction Classifier - Decision Trees](https://github.com/numalj/BigDataAssignments/tree/master/ebayDecisionTrees)
+
+This project is an exercise in using Decision Trees with past ebay auction data to try and predict whether an auction would be competitive or not. Based on the decision tree splits, recommendations were provided with general guidelines to follow when setting up the auction to give the user a more competitive chance. See the [project page](https://github.com/numalj/BigDataAssignments/tree/master/ebayDecisionTrees) for diagrams and more details.
+
+
 ## Time Series Forecasting model for Quarterly Stock Prices 
 
 * Worked with my team mates at Rotman, to build a time series model that that identifies potential best performing stocks of the next quarter
@@ -32,11 +38,6 @@ Heart disease is a leading cause of death in Canada. Certain heart beat anomalie
 * Preprocessed and **Augmented** audio files to create a larger training set, since there was a very limited set of available 
 * Built a **RNN + LSTM model** to classify heart beat sounds with 65% sensitivity
 * The audio files had to be converted to mfcc format so that they could be used in our model
-
-
-## [Ebay Competitive Auction Classifier - Decision Trees](https://github.com/numalj/BigDataAssignments/tree/master/ebayDecisionTrees)
-
-This project is an exercise in using Decision Trees with past ebay auction data to try and predict whether an auction would be competitive or not. Based on the decision tree splits, recommendations were provided with general guidelines to follow when setting up the auction to give the user a more competitive chance. See the [project page](https://github.com/numalj/BigDataAssignments/tree/master/ebayDecisionTrees) for diagrams and more details.
 
 
 ## Hot Dog or Not?
