@@ -3,7 +3,7 @@
 Software Engineer turned Data Scientist. I am almost done with my Master of Management Analytics degree at Rotman (University of Toronto). Below are some of my personal Machine Learning and Data Science projects as well as a few selected projects of the many that I completed as part of my master's program.
 
 **NOTE:**
-* Click on the project titles to see the Visualizations, insights drawn and the summary of the project
+* **Click on the project titles** to see the Visualizations, insights drawn and the summary of the project
 * If you would like to see the full process, each project also contains the full jupyter notebook 
     
 
@@ -21,6 +21,13 @@ See findings [here](https://github.com/numalj/John-Mayer-Lyrics-Analysis "John M
 ## [Ebay Competitive Auction Classifier - Decision Trees](https://github.com/numalj/BigDataAssignments/tree/master/ebayDecisionTrees)
 
 This project is an exercise in using Decision Trees with past ebay auction data to try and predict whether an auction would be competitive or not. Based on the decision tree splits, recommendations were provided with general guidelines to follow when setting up the auction to give the user a more competitive chance. See the [project page](https://github.com/numalj/BigDataAssignments/tree/master/ebayDecisionTrees) for diagrams and more details.
+
+
+## [New Starbucks Location Analysis](https://github.com/numalj/StarbucksLocationAnalysis)
+
+JavaBean is an up and coming coffee chain that is very similar to Starbucks. JavaBean is trying to decide which zip codes it should focus on to open up new shops in the near future. As a competitor of Starbucks, JavaBean has a very similar customer base.
+
+As part of this project, I will look into current locations of Starbucks, and then use a Logistic Regression model to try and find zip codes that currently don't have a Starbucks, but have a potential customer base that would be suitable for a Starbucks/JavaBean.
 
 
 ## Time Series Forecasting model for Quarterly Stock Prices 
