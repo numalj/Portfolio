@@ -17,6 +17,11 @@ This is a project that I came up with. Being a big fan of anything guitar relate
 
 See findings [here](https://github.com/numalj/John-Mayer-Lyrics-Analysis "John Mayer Lyrics Analysis Notebook")
 
+## [Starbucks Location - GeoSpatial (GIS) Analysis](https://github.com/numalj/Starbucks-GeoSpatial-Analysis)
+
+* This project attempts to use both geospatial data and demographic data to identify Starbucks locations suitable to be upgraded into Roasteries. 
+* I used GeoPandas, GeoDataFrame, Spatial Joins and Buffers to help with the analysis.
+* Mapping was done using Folium library
 
 ## [Ebay Competitive Auction Classifier - Decision Trees](https://github.com/numalj/BigDataAssignments/tree/master/ebayDecisionTrees)
 
